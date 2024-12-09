@@ -1,4 +1,5 @@
 import React from 'react'
+import image from './new_monkey.png'
 const AskRiddle = (props) => {
   return (
     <>
@@ -16,7 +17,7 @@ const AskRiddle = (props) => {
         (<h1>{props.question}</h1>)
       }
       {props.load && 
-        (<img src="/new_monkey.png" alt="monkey"/>)
+        <img src={image} alt='monkey'/>
       }
       </div>
     </div>
