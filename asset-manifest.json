@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Riddle_Game/static/css/main.326f1961.css",
-    "main.js": "/Riddle_Game/static/js/main.c7cb8b5f.js",
+    "main.js": "/Riddle_Game/static/js/main.9edf3662.js",
     "static/js/453.51f96499.chunk.js": "/Riddle_Game/static/js/453.51f96499.chunk.js",
+    "static/media/new_monkey.png": "/Riddle_Game/static/media/new_monkey.f44dbb46375e0549a68d.png",
     "index.html": "/Riddle_Game/index.html",
     "main.326f1961.css.map": "/Riddle_Game/static/css/main.326f1961.css.map",
-    "main.c7cb8b5f.js.map": "/Riddle_Game/static/js/main.c7cb8b5f.js.map",
+    "main.9edf3662.js.map": "/Riddle_Game/static/js/main.9edf3662.js.map",
     "453.51f96499.chunk.js.map": "/Riddle_Game/static/js/453.51f96499.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.326f1961.css",
-    "static/js/main.c7cb8b5f.js"
+    "static/js/main.9edf3662.js"
   ]
 }
