@@ -16,7 +16,7 @@ const AskRiddle = (props) => {
         (<h1>{props.question}</h1>)
       }
       {props.load && 
-        (<img src="/new_monkey.png" alt="monkey">)
+        (<img src="/new_monkey.png" alt="monkey"/>)
       }
       </div>
     </div>
